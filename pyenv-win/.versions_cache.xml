@@ -3256,6 +3256,16 @@
 		<URL>https://www.python.org/ftp/python/3.12.9/python-3.12.9-amd64.exe</URL>
 	</version>
 	<version x64="false" webInstall="false" msi="false">
+		<code>3.12.10-win32</code>
+		<file>python-3.12.10.exe</file>
+		<URL>https://www.python.org/ftp/python/3.12.10/python-3.12.10.exe</URL>
+	</version>
+	<version x64="true" webInstall="false" msi="false">
+		<code>3.12.10</code>
+		<file>python-3.12.10-amd64.exe</file>
+		<URL>https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe</URL>
+	</version>
+	<version x64="false" webInstall="false" msi="false">
 		<code>3.13.0a1-win32</code>
 		<file>python-3.13.0a1.exe</file>
 		<URL>https://www.python.org/ftp/python/3.13.0/python-3.13.0a1.exe</URL>
@@ -3416,6 +3426,16 @@
 		<URL>https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe</URL>
 	</version>
 	<version x64="false" webInstall="false" msi="false">
+		<code>3.13.3-win32</code>
+		<file>python-3.13.3.exe</file>
+		<URL>https://www.python.org/ftp/python/3.13.3/python-3.13.3.exe</URL>
+	</version>
+	<version x64="true" webInstall="false" msi="false">
+		<code>3.13.3</code>
+		<file>python-3.13.3-amd64.exe</file>
+		<URL>https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe</URL>
+	</version>
+	<version x64="false" webInstall="false" msi="false">
 		<code>3.14.0a1-win32</code>
 		<file>python-3.14.0a1.exe</file>
 		<URL>https://www.python.org/ftp/python/3.14.0/python-3.14.0a1.exe</URL>
@@ -3474,5 +3494,15 @@
 		<code>3.14.0a6</code>
 		<file>python-3.14.0a6-amd64.exe</file>
 		<URL>https://www.python.org/ftp/python/3.14.0/python-3.14.0a6-amd64.exe</URL>
+	</version>
+	<version x64="false" webInstall="false" msi="false">
+		<code>3.14.0a7-win32</code>
+		<file>python-3.14.0a7.exe</file>
+		<URL>https://www.python.org/ftp/python/3.14.0/python-3.14.0a7.exe</URL>
+	</version>
+	<version x64="true" webInstall="false" msi="false">
+		<code>3.14.0a7</code>
+		<file>python-3.14.0a7-amd64.exe</file>
+		<URL>https://www.python.org/ftp/python/3.14.0/python-3.14.0a7-amd64.exe</URL>
 	</version>
 </versions>
